@@ -1,3 +1,3 @@
 # MyFirstApp
 
-This Repoository contains my very first android application (MyFirstApp Project)
+This repoository contains my very first android application (MyFirstApp Project)
